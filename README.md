@@ -1,4 +1,4 @@
-## **DOWNLOAD DO RADIOCONDA**
+## **Download do Radioconda**
 
 A versão utilizada no desenvolvimento e teste da ELIRA foi a 2025.03.14. Outras versões podem ou não ser compatíveis.
 
@@ -10,7 +10,7 @@ A versão utilizada no desenvolvimento e teste da ELIRA foi a 2025.03.14. Outras
 
 Para demais sistemas operacionais, acesse https://github.com/radioconda/radioconda-installer/releases/tag/2025.03.14.
 
-## **DOWNLOAD DO SATDUMP**
+## **Download do SatDump**
 
 Utilizou-se a versão 1.2.2 durante o desenvolvimento e teste da ELIRA. Outras versões possivelmente funcionarão, porém, podem ter o layout e modo de funcionamento diferente do apresentado no manual de uso da ELIRA.
 
@@ -21,5 +21,5 @@ Utilizou-se a versão 1.2.2 durante o desenvolvimento e teste da ELIRA. Outras v
 
 Para demais sistemas operacionais ou informações de como compilar o SatDump do zero no Linux, acesse https://www.satdump.org/download.htm.
 
-## **DOWNLOAD DO ZADIG (APENAS PARA WINDOWS)**
+## **Download do Zadig (APENAS PARA WINDOWS)**
 Para baixar o Zadig, utilitário do Windows que permite ajustar os drivers do USB, acesse https://github.com/pbatard/libwdi/releases/download/v1.5.1/zadig-2.9.exe.
